@@ -6,6 +6,7 @@
 
 body {
   font-family: 'Lato';
+  font-size: 18px;
 }
 
 h1,
@@ -15,7 +16,7 @@ h4,
 h5,
 h6 {
   font-family: 'Catamaran';
-  font-weight: 800 !important;
+  font-weight: 600 !important;
 }
 
 .btn-xl {
@@ -59,7 +60,7 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+  background-image:url("../img/ruby-demons-pride-march.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
